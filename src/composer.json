@@ -8,7 +8,7 @@
         "php": "^7.2",
         "laravel/lumen-framework": "6.3.*",
         "illuminate/redis": "6.3.*",
-        "predis/predis": "1.*",
+        "predis/predis": "1.*"
     },
     "require-dev": {
         "fzaninotto/faker": "^1.9.1",

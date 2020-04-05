@@ -6,7 +6,7 @@ Caching already
 ## How to set up
 > docker-compose up
 >
-> docker-compose run -rm composer install
+> docker-compose run --rm composer install
 
 ## How to use 
 Open localhost/ in your favorite browser and enjoy.

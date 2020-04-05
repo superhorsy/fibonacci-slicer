@@ -37,9 +37,9 @@ class FibonacciEstimator
 
     private function getTerm($i): int
     {
-        /*if (Cache::has($i)) {
+        if (Cache::has($i)) {
             return Cache::get($i);
-        }*/
+        }
 
         $term = $this->getFibonacciWithGoldenRatio($i);
 
